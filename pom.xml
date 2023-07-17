@@ -38,6 +38,7 @@
 
 	<build>
 		<finalName>first-web-service</finalName>  
+		<defaultGoal>package</defaultGoal>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
